@@ -1,5 +1,5 @@
 /**
- * 
+ * This is a package name
  */
 package desarrollo1;
 
@@ -12,7 +12,7 @@ public class HolaMundo {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(final String[] args) {
 		System.out.println("Hola Mundo 3");
 	}
 
