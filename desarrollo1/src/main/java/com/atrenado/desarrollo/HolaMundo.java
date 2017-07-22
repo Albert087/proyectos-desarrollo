@@ -1,7 +1,7 @@
 /**
  * This is a package name
  */
-package desarrollo1;
+package com.atrenado.desarrollo;
 
 /**
  * @author Alberto
@@ -10,7 +10,9 @@ package desarrollo1;
 public class HolaMundo {
 
 	/**
-	 * @param args
+	 * The main method.
+	 *
+	 * @param args the arguments
 	 */
 	public static void main(final String[] args) {
 		System.out.println("Hola Mundo 3");
