@@ -8,7 +8,7 @@ package com.atrenado.desarrollo;
  *
  */
 public class HolaMundo {
-
+	
 	/**
 	 * The main method.
 	 *
