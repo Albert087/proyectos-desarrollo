@@ -4,20 +4,23 @@
 package com.atrenado.desarrollo;
 
 /**
- * @author Alberto
+ * The Class HolaMundo.
  *
+ * @author Alberto
  */
 public class HolaMundo {
 	/**
 	 * Instantiates a new hola mundo.
 	 */
 	public HolaMundo() {
-		
+
 	}
+
 	/**
 	 * The main method.
 	 *
-	 * @param args the arguments
+	 * @param args
+	 *            the arguments
 	 */
 	public static void main(final String[] args) {
 		System.out.println("Hola Mundo 3");
