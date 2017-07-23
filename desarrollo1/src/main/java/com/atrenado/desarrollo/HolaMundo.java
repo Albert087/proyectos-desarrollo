@@ -10,6 +10,13 @@ package com.atrenado.desarrollo;
 public class HolaMundo {
 	
 	/**
+	 * Instantiates a new hola mundo.
+	 */
+	public HolaMundo() {
+		
+	}
+	
+	/**
 	 * The main method.
 	 *
 	 * @param args the arguments
